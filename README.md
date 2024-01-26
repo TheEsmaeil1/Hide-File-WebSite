@@ -1,2 +1,3 @@
 # Hide-File-WebSite
-Hiding content inside the folder on websites 
+- کافی است محتوا فایل در دورن سرور خود قرار دهید
+- ادرس محتوا xampp فایل htdocs اپلود کنید 
